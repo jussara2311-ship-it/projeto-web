@@ -1,0 +1,16 @@
+h1,h2,h3,h4,h5{
+    text-align:   center;
+    color: rgb(167, 4, 4);
+    background-color: darkgrey;
+    border: 2px solid black;
+    border-radius: 10px;
+
+
+
+}
+  /*anotações sobre o CSS(como se faz e coloquei aqui pra não esquecer*/ 
+
+.minha-foto{
+
+    border: 2px solid black;
+}
